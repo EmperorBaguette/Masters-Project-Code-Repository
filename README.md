@@ -25,7 +25,8 @@ By editing these parameters you should be able to simulate and current system fo
 
 # Code Functionality
 - First edit the parameters described above for the system you wish to model.
-- Press run
-- The code will run, printing a statement telling you what percentage of the calculation is complete as well as the value of the current normalisation at that step
+- Press run.
+- The code will run, printing a statement telling you what percentage of the calculation is complete as well as the value of the current normalisation at that step.
 - The code will then display graphs at sizes which you can either resize manually or leave to be determined automatically by the size of the energy window.
 - To open the next graph you must close the previous one.
+- The code will create .npz files for data storage and comparison for the thermal gradient induced current in the code's directory.
